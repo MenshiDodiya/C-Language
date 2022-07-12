@@ -10,4 +10,5 @@ C language Programs:-
 7 Assignment Operator
 8 Increment/decrement Operator
 9 Bitwise Operator
+Swapping two variable value using extra variable.
 using Scanf() function
