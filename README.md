@@ -10,3 +10,4 @@ C language Programs:-
 7 Assignment Operator
 8 Increment/decrement Operator
 9 Bitwise Operator
+using Scanf() function
