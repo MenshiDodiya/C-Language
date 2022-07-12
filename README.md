@@ -12,3 +12,4 @@ C language Programs:-
 9 Bitwise Operator
 Swapping two variable value using extra variable.
 using Scanf() function
+Swapping Three variables value using extra variable and taking value from user.
