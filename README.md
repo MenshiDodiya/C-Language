@@ -10,6 +10,8 @@ C language Programs:-
 7 Assignment Operator
 8 Increment/decrement Operator
 9 Bitwise Operator
-Swapping two variable value using extra variable.
+Swapping two(2) variable value using extra variable.
 using Scanf() function
-Swapping Three variables value using extra variable and taking value from user.
+Swapping Three(2) variables value using extra variable and taking value from user.
+Swapping Two(2) variable values without using extra variable.
+Swapping Three(3) variable values without using extra variable.
